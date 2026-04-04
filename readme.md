@@ -5,7 +5,6 @@ This project provides a digital interface for accessing and exploring the Bible.
 
 ## Features
 - **Text Access**: Full text of the Bible in multiple translations.
-- **Search Functionality**: Keyword and verse search capabilities.
 - **Responsive Design**: Works on desktop and mobile devices.
 - **API Integration**: RESTful API for programmatic access.
 
